@@ -1,1 +1,2 @@
-Шаблон верстки сайта без использования Bootstrap
+Without using
+Bootstrap
